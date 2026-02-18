@@ -1,1 +1,50 @@
+DOCUMENTACIÓN DEL PROYECTO
+PROTOTIPO DE CONEXIÓN DE ESCÁNER AUTOMOTRIZ UNIVERSAL A TELÉFONO POR BLUETOOTH O WIFI
+
+
+1. DATOS GENERALES DEL PROYECTO
+Nombre del proyecto: Prototipo de escáner automotriz universal con conexión inalámbrica
+Área: Electrónica automotriz y comunicación inalámbrica
+Tecnologías utilizadas: OBD-II, Bluetooth, WiFi, teléfono inteligente
+Fecha: _16_02_2026
+Integrantes / Equipo: Angel Jesus Moreno Trejo, Azul, Daniel, Jonathan Leonel, Yacob Aminadab Barrientos Espinosa
+Asesor: Clodoaldo Elizalde Nava
+2. OBJETIVO DEL PROYECTO
+Desarrollar un prototipo funcional capaz de conectarse al puerto OBD-II de un vehículo y transmitir los datos del sistema automotriz a un teléfono móvil mediante tecnología Bluetooth o WiFi, permitiendo la visualización y diagnóstico en tiempo real. 
+3. JUSTIFICACIÓN
+Este prototipo permitirá diagnosticar fallas en vehículos de manera inalámbrica, reduciendo la necesidad de equipos costosos y facilitando el monitoreo desde un dispositivo móvil. Además, contribuye al aprendizaje en áreas de electrónica, programación y telecomunicaciones.
+4. ALCANCE
+El proyecto contempla el diseño, programación, ensamblaje y prueba de un prototipo funcional que pueda leer datos del vehículo y transmitirlos a un teléfono móvil. No incluye producción comercial. 
+5. MATERIALES Y COMPONENTES
+- Escáner OBD-II universal
+- Módulo Bluetooth o WiFi
+- Microcontrolador (ESP32, Arduino u otro)
+- Teléfono inteligente
+- Cables de conexión
+- Fuente de alimentación
+- Computadora para programación
+- Software de desarrollo
+6. METODOLOGÍA
+1. Diseño del sistema
+2. Programación del microcontrolador
+3. Conexión del módulo inalámbrico
+4. Ensamblaje del prototipo
+5. Pruebas de funcionamiento
+6. Documentación del proyecto
+7. ROLES Y RESPONSABILIDADES
+Líder: Coordina el proyecto, supervisa actividades y organiza al equipo.
+Programador: Desarrolla el código para la comunicación y funcionamiento del sistema.
+Diseño y Ensamble: Diseña el prototipo físico y realiza el ensamblaje.
+Documentador: Registra toda la información, avances y resultados del proyecto.
+Multiusos: Apoya en diferentes tareas según sea necesario.
+8. DIAGRAMA DEL SISTEMA
+Insertar aquí el diagrama que muestre la conexión entre el puerto OBD-II, microcontrolador, módulo inalámbrico y teléfono.
+9. PRUEBAS Y RESULTADOS
+Describir las pruebas realizadas y los resultados obtenidos.
+Resultado: __________________________
+10. CONCLUSIONES
+Describir las conclusiones del proyecto.
+Conclusión: __________________________
+11. ANEXOS
+Agregar fotografías, código fuente, diagramas y evidencia del proyecto.
 
